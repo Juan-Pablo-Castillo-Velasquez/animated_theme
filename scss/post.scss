@@ -1,0 +1,58 @@
+/* Importación de estilos preexistentes */
+@import "../../animated/scss/pre.scss";
+
+/* Estilos para el contenido de la página */
+
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background: linear-gradient(97deg, #eb297a, #fe7f41);
+    /* Otros estilos de la barra de navegación si es necesario */
+}
+
+/* Estilos para elementos con la clase "card-body" */
+
+/* Estilos para texto con la clase "text-muted" */
+
+
+/* Estilos para enlaces de navegación en la clase "primary-navigation" */
+.primary-navigation .navigation .nav-link {
+    color: #f1e9e9;
+    border-top: 3px solid transparent;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+/* Estilos de hover para enlaces de navegación en la clase "primary-navigation" */
+.primary-navigation .navigation .nav-link:hover {
+    background-color: rgb(19, 18, 18);
+    color: white;
+    font-weight: bolder;
+    transition: 0.50s;
+    padding-left: 20px;
+}
+
+/* Estilos para el cuerpo del documento */
+body {
+    background-color: rgba(18, 17, 17, 0.053);
+    font-family: sans-serif;
+}
+.navbar-light .navbar-brand {
+    color: rgb(250, 250, 250);
+    font-weight: bolder;
+    font-size: 18px;
+}
+.navbar-light .navbar-nav .show>.nav-link, .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    color: rgb(255 255 255 / 90%);
+    background-color: rgb(18, 17, 17);
+
+}
+#block-timeline-64ee5c10e51a264ee5c10de49e2-1{
+    background-color:linear-gradient(97deg, #eb297a, #fe7f41) ;
+    color: whitesmoke;
+}
+
+.block .block-cards .icon {
+
+    background-color:linear-gradient(97deg, #eb297a, #fe7f41) ;
+}
