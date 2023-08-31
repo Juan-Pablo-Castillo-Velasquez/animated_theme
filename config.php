@@ -53,3 +53,8 @@ $THEME->haseditswitch = true;
 $THEME->scss = function($theme) {                                                                                                   
     return theme_animated_get_main_scss_content($theme);                                                                               
 };
+$CFG->theme_animated = $CFG->wwwroot . '/theme/animated/templates/index.js';
+
+$THEME->javascripts = [
+    $CFG->wwwroot . '/theme/animated/templates/index.js',
+];

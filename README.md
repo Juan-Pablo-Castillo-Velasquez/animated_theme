@@ -38,6 +38,15 @@ Una vez que hayas instalado y configurado el Tema Moodle "Animated", puedes come
 - **Esquema de Colores**: Ajusta el color de marca para que coincida con la imagen de tu organización.
 - **CSS Personalizado**: Utiliza las configuraciones "Raw SCSS" y "Raw initial SCSS" para agregar código CSS o SCSS personalizado y adaptar la apariencia del tema.
 
+## Ejemplos-login
+
+![ejemplo1](./img/imagen1.png)
+![ejemplo1](./img/imagen2.png)
+![ejemplo1](./img/imagen3.png)
+
+## ejemplos-interfaz
+![interfaz_ejemplo](./img/interfaz1.png)
+
 ## Contribuciones
 
 Si tienes sugerencias, informes de errores o deseas contribuir al desarrollo de este tema, visita el [repositorio de GitHub](https://github.com/tu-enlace-repo) para obtener más información.
